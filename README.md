@@ -41,6 +41,7 @@
 - Data Lake vs Data Warehouse vs Lakehouse
 - Medallion Architecture (Bronze / Silver / Gold)
 
+[More](documents/Data%20Engineering%20Fundamentals.md)
 ---
 
 ## 2️⃣ Azure Data Engineering Ecosystem ⭐⭐⭐⭐⭐
